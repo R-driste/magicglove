@@ -12,3 +12,14 @@ How will this work on a glove? The answer is incredibly thin wires as well as co
 ### CAD Concept
 ![Screenshot 1](assets/Screenshot%202025-07-31%20at%208.48.58%E2%80%AFPM.png)
 ![Screenshot 2](assets/Screenshot%202025-07-31%20at%208.54.27%E2%80%AFPM.png)
+
+### B.O.M.
+4x Magnetometers
+4x Flex Sensors
+1x Disk Magnet Tiny
+1x Battery Pack
+1x MPU 6050
+1x RP2040 XIAO
+1x TCU Multiplexer
+1x PF Multiplexer
+1x Spool of wire
